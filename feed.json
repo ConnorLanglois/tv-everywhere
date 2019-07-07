@@ -1,0 +1,238 @@
+{
+	"providerName": "Channels",
+	"language": "en-US",
+	"lastUpdated": "2018-06-21T12:00:00.000Z",
+	"shortFormVideos": [
+		 {
+				"id": "73774uudu888822",
+				"title": "STREAMFARE",
+				"shortDescription": "FOX News",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3bf1656/MC-fox.jpg",
+				"releaseDate": "2018-06-20",
+				"content": {
+					 "dateAdded": "2018-06-20T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "http://2d05.janjuaplayer.com:8088/live/livenewsbox_FoxNews/playlist.m3u8?id=62162&pk=732dbe07d90e607136bcbda3f6fd54a538b332f7f9b9f7f65942b27dd3033376",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"FOX News"
+				]
+		 },
+		 {
+				"id": "73774uudu888823",
+				"title": "LIVE NEWS ON",
+				"shortDescription": "FOX News",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3bf1656/MC-fox.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "http://149.56.26.63:1935/fxnews/myStream/chunklist_w78383509.m3u8",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"FOX News"
+				]
+		 },
+		 {
+				"id": "73774uudu888824",
+				"title": "LiveOnlineTv247",
+				"shortDescription": "Golf Channel",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/3d0eac60/golf_channel.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "http://cors.hyoo.ru/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"Golf Channel"
+				]
+		 },
+		 {
+				"id": "73774uudu888825",
+				"title": "streamgaroo",
+				"shortDescription": "HGTV",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/964d3ad8/hgtv.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://lhr-1.firstonetv.net:4434/hls/a13e6e0d54813e67b9ad8aba2fd51fe2/1529738156/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135332e6d6264722e63662f7032702f37643930303063303936376363343931396630376563626532373336633935612e6d3375383f73743d4e795666354b4971763971666933476b38325f43447726653d31353239373532353536.m3u8",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"HGTV"
+				]
+		 },
+		 {
+				"id": "73774uudu888826",
+				"title": "streamgaroo",
+				"shortDescription": "History",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/62f3231b/history.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://lhr-1.firstonetv.net:4434/hls/bd318419874c08b17c3a7107fdaf928e/1529602336/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722https://lhr-1.firstonetv.net:4434/hls/bd318419874c08b17c3a7107fdaf928e/1529602336/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f62363633373366306162303930303062316163643036353736626339316565622e6d3375383f73743d526e714f514647307a6b382d54566c7a4e57314f504126653d31353239363136373336.m3u8e63662f7032702f62363633373366306162303930303062316163643036353736626339316565622e6d3375383f73743d526e714f514647307a6b382d54566c7a4e57314f504126653d31353239363136373336.m3u8",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"History"
+				]
+		 },
+		 {
+				"id": "73774uudu888827",
+				"title": "streamgaroo",
+				"shortDescription": "Discovery",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/8b17f84f/discovery.jpg",
+				"releaseDate": "2018-06-22",
+				"content": {
+					 "dateAdded": "2018-06-22T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://content-auso4.uplynk.com/channel/19334c6a5c614c46b2f198f15c179163/i.m3u8?tc=1&exp=1529702118&rn=804433251&ct=c&cid=19334c6a5c614c46b2f198f15c179163&ts=1529701818&endts=1529702178&ad.pingf=5&ad.customer_id=165a7&ad.nw=91559&ad.prof=91559%3Adiscovery_eos_js_novpaid_live&ad.csid=dsc.discovery.com%2Flive&ad.vip=142.44.162.94&ad.kv=_fw_fss%2C_fw_search%2C_fw_ae%2Cnull%2C_fw_bumper%2Cnull%2C_fw_nielsen_app_id%2Cus-201051&ad.caid=livestream&pp2ip=0&ad.cping=1&ad=fw&rays=cdefghiba&sig=299a36a69c576da2deb765b528ca3f11413e7d0830c7d969c957a97904ce6420&pbs=947fc2b2951646d5b20d504bf6a64bcb",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"Discovery"
+				]
+		 },
+		 {
+				"id": "73774uudu888828",
+				"title": "streamgaroo",
+				"shortDescription": "Food Network",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3cf8cfc/food_network.jpg",
+				"releaseDate": "2018-06-22",
+				"content": {
+					 "dateAdded": "2018-06-22T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://content-ause4.uplynk.com/channel/ceb8d6e35fca432f9f32f4f1f4a822b8/g.m3u8?ct=c&ad.locationDesc=comedy_central_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_vmn_ar,true,_fw_vcid2,82125:comedycentral_85589d58045544cf90ad71e6cd04948b&euid=85589d58-0455-44cf-90ad-71e6cd04948b&exp=1529714745&rn=79647148&ad.euid=85589d58-0455-44cf-90ad-71e6cd04948b&cid=ceb8d6e35fca432f9f32f4f1f4a822b8&tc=1&sig=517bcf36e86d842e9d1062af8364e1bbfcee013856f1ffe132f837df3076b6ad&pbs=019c9e6d4f2148da878aa8dd2c89ee5c",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"Food Network"
+				]
+		 },
+		 {
+				"id": "73774uudu888829",
+				"title": "streamgaroo",
+				"shortDescription": "National Geographic",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/f3cf8cfc/national_geographic.jpg",
+				"releaseDate": "2018-06-22",
+				"content": {
+					 "dateAdded": "2018-06-22T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://nlcache5.streamlive.to/edge/qzsfigd1y3bgbhs/chunks.m3u8?nimblesessionid=6157296&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDE4IDE6MzQ6MjggQU0maGFzaF92YWx1ZT1TUkdaVTZSUHl6K3ZXUGNrdlJ0OXp3PT0mdmFsaWRtaW51dGVzPTEwMCZzdHJtX2xlbj0yMCZpZD0yNjA0OjYwMDA6MTUxOTo4YTpkZDE2OjVkZGI6ODgxMDo5YjQw",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"National Geographic"
+				]
+		 },
+		 {
+				"id": "73774uudu888830",
+				"title": "streamgaroo",
+				"shortDescription": "Comedy Central",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/1b9b8f7d/comedy_central.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://content-ause4.uplynk.com/channel/ceb8d6e35fca432f9f32f4f1f4a822b8/g.m3u8?ct=c&ad.locationDesc=comedy_central_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_vmn_ar,true,_fw_vcid2,82125:comedycentral_85589d58045544cf90ad71e6cd04948b&euid=85589d58-0455-44cf-90ad-71e6cd04948b&exp=1529714745&rn=79647148&ad.euid=85589d58-0455-44cf-90ad-71e6cd04948b&cid=ceb8d6e35fca432f9f32f4f1f4a822b8&tc=1&sig=517bcf36e86d842e9d1062af8364e1bbfcee013856f1ffe132f837df3076b6ad&pbs=019c9e6d4f2148da878aa8dd2c89ee5c",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"Comedy Central"
+				]
+		 },
+		 {
+				"id": "73774uudu888831",
+				"title": "streamgaroo",
+				"shortDescription": "AMC",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/9ae322ad/amc.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://1.picturecdn.ml/live/amc-hq/chunks.m3u8?nimblesessionid=2249857&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDE4IDEyOjQ2OjExIEFNJmhhc2hfdmFsdWU9TFF1YjBpaEI4YmdleTd6cDlDU2lUdz09JnZhbGlkbWludXRlcz02MCZpZD0xOTkuMTg4LjIwMC44NiZzdHJtX2xlbj01",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"AMC"
+				]
+		 },
+		 {
+				"id": "73774uudu888832",
+				"title": "Bloomberg",
+				"shortDescription": "Bloomberg",
+				"thumbnail": "https://cdn.rawgit.com/Colo553/Roku/d5f641b9/bloomberg.jpg",
+				"releaseDate": "2018-06-21",
+				"content": {
+					 "dateAdded": "2018-06-21T12:00:00.000Z",
+					 "duration": 999999,
+					 "videos": [
+							{
+								 "url": "https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8",
+								 "quality": "HD",
+								 "videoType": "hls"
+							}
+					 ]
+				},
+				"tags": [
+					"Bloomberg"
+				]
+		 }
+	]
+}
