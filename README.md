@@ -20,9 +20,9 @@ Clone the repo.
 
 Open Roku and run the app:
 
-	```
-	TV Everywhere
-	```
+```
+TV Everywhere
+```
 
 ## Deployment
 
